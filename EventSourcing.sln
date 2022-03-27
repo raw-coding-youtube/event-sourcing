@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhenToSnapshot", "WhenToSna
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexProjections", "ComplexProjections\ComplexProjections.csproj", "{FECE9566-14EC-4FFD-887E-338942FCD547}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snapshotter", "Snapshotter\Snapshotter.csproj", "{52F29BA1-08D4-41DA-9F21-CD198B6625BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{FECE9566-14EC-4FFD-887E-338942FCD547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FECE9566-14EC-4FFD-887E-338942FCD547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FECE9566-14EC-4FFD-887E-338942FCD547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F29BA1-08D4-41DA-9F21-CD198B6625BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F29BA1-08D4-41DA-9F21-CD198B6625BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F29BA1-08D4-41DA-9F21-CD198B6625BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F29BA1-08D4-41DA-9F21-CD198B6625BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
